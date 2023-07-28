@@ -1,4 +1,4 @@
-# MovieLand React App
+# ScreenSearch React App
 
 ScreenSearch is a simple React web application that allows users to search for movies using the Open Movie Database (OMDB) API. Users can enter a movie title in the search bar, and the app will display a list of movies that match the search term. Each movie is presented in a card format, showing its title, release year, and type. If the movie has a poster, it will be displayed; otherwise, a placeholder image will be shown.
 
